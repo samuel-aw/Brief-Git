@@ -1,5 +1,6 @@
 body {
-    background-color: black;
-    color: white;
-    border: 5px solid white;
+    background-color: white;
+    color: black;
+    border: 5px solid black;
+    text-align: center;
 }
